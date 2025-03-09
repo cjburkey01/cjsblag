@@ -1,0 +1,6 @@
+# zola output
+public/
+
+# Mac
+**.DS_Store
+**/__MACOSX
