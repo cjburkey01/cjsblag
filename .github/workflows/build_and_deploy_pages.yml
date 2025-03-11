@@ -6,6 +6,9 @@ on:
 jobs:
   build:
     name: Publish site
+    permissions:
+      contents: write
+      deployments: write
     runs-on: ubuntu-latest
     steps:
     - name: Checkout main
