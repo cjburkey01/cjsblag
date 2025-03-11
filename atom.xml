@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>cjsblag</title>
+    <subtitle>just some writing by</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://cjsblag.cjburkey.com/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://cjsblag.cjburkey.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2027-05-01T18:18:18+00:00</updated>
+    <id>https://cjsblag.cjburkey.com/atom.xml</id>
+    <entry xml:lang="en">
+        <title>First Post</title>
+        <published>2027-05-01T18:18:18+00:00</published>
+        <updated>2027-05-01T18:18:18+00:00</updated>
+        
+        <author>
+          <name>
+            
+              CJ Burkey
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://cjsblag.cjburkey.com/blog/second-post/"/>
+        <id>https://cjsblag.cjburkey.com/blog/second-post/</id>
+        
+        <content type="html" xml:base="https://cjsblag.cjburkey.com/blog/second-post/">&lt;p&gt;This is my SECOND post.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>First Post</title>
+        <published>2016-10-08T00:00:00+00:00</published>
+        <updated>2016-10-08T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              CJ Burkey
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://cjsblag.cjburkey.com/first-post/"/>
+        <id>https://cjsblag.cjburkey.com/first-post/</id>
+        
+        <content type="html" xml:base="https://cjsblag.cjburkey.com/first-post/">&lt;p&gt;This is my first post.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
